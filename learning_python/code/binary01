@@ -1,0 +1,5 @@
+# Check the environment for python settings!
+#!/usr/bin/env python
+# Don't use a hardcoded path for python if possible
+##!/usr/local/bin/python
+print('The bright side ' + 'of life...')
